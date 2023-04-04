@@ -22,12 +22,12 @@ jobs:
         run: python3 .build/main.py
       - name: Commit If it has Changes
         run: |
-          git add -N .docs
+          git add -N ./docs
             if ! git diff --exit-code --quiet
             then
               git config user.name github-actions[bot]
               git config user.email github-actions[bot]@github.com
-              git add .
+              git add ./docs
               git commit -m "Build Update"
               git push
             fi
