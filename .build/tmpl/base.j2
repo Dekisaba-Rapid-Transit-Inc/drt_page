@@ -1,0 +1,40 @@
+<html lang="ja-jp">
+    <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# {{ogp_pagetype}}: http://ogp.me/ns/{{ogp_pagetype}}#">
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta property="og:type" content="{{ogp_pagetype}}" />
+        <meta property="og:title" content="{{title}}" />
+        <meta property="og:description" content="{{description}}" />
+        <title>{{title}} - でき鉄</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    </head>
+    <body class="d-flex flex-column h-100">
+        <header class="bg-dark text-white p-3">
+            <div class="container">
+                <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
+                    <a href="/" class="d-flex align-items-center mb-2 mb-lg-0 text-white text-decoration-none">
+                        <img src="/assets/icon.png" class="rounded-circle" style="width: 3em;">
+                    </a>
+                    <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
+                        <li><a href="/index.html" class="nav-link px-2 m-1 text-white">でき鯖高速鉄道グループ</a></li>
+                    </ul>
+                    <ul class="text-end nav mb-2 justify-content-center">
+                        <li><a href="/index.html" class="nav-link px-2 m-1 text-white">ホーム</a></li>
+                        <li><a href="/about.html" class="nav-link px-2 m-1 text-white">会社概要</a></li>
+                        <li><a href="/recruitment.html" class="nav-link px-2 m-1 text-white">採用情報</a></li>
+                        <li><a href="/contact.html" class="nav-link px-2 m-1 text-white">お問い合わせ</a></li>
+                    </ul>
+                </div>
+            </div>
+        </header>
+        <main class="flex-shrink-0 {% block main_attr %}{% endblock %}">
+            {% block body %}
+            {% endblock %}
+        </main>
+        <footer class="bg-dark mt-auto text-white py-3 footer">
+            <div class="container">© 2021-2023 でき鯖高速鉄道グループ.</div>
+        </footer>
+    </body>
+</html>
