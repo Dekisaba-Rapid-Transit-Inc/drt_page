@@ -6,12 +6,84 @@ description: "でき鯖高速鉄道グループとはMinecraftサーバー「で
 
 ## 会社概要
 
-でき鯖高速鉄道グループとはMinecraftサーバー「できたてサーバー(猫)」で活動する鉄道事業者です。
+でき鯖高速鉄道グループとはMinecraftサーバー「[できたてサーバー(猫)](https://www.dekitateserver.com)」で活動する鉄道事業者です。
 
-### できたてサーバー(猫)とは？
-
-[できたてサーバー(猫)](https://www.dekitateserver.com/)は、Minecraft Java Editionの公開サーバーです。
-
-### でき鯖高速鉄道グループとは?
-
-[できたてサーバー(猫)](https://www.dekitateserver.com/)の「サバイバルサーバー」で鉄道による移動手段を提供している、[できたてサーバー(猫)](https://www.dekitateserver.com/)内の企業です。
+<table class="table">
+    <thead class="text-center">
+        <tr>
+            <th colspan="2">会社概要</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>会社名</td>
+            <td>でき鯖高速鉄道グループ</td>
+        </tr>
+        <tr>
+            <td>資本金</td>
+            <td>200000猫円</td>
+        </tr>
+        <tr>
+            <td>設立</td>
+            <td><time datetime="2021-05-15">2021年5月15日</time></td>
+        </tr>
+        <tr>
+            <td>代表取締役</td>
+            <td>Leo_223</td>
+        </tr>
+        <tr>
+            <td>取締役</td>
+            <td>
+                <ul>
+                    <li>YukioC1024</li>
+                    <li>KAZUMIC_C4</li>
+                    <li>ryu_216</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>従業員数</td>
+            <td>8人 (<time datetime="2023-04-06">2023年4月06日</time>現在)</td>
+        </tr>
+        <tr>
+            <td>事業内容</td>
+            <td>
+                <ul>
+                    <li>鉄道事業(旅客輸送)</li>
+                    <li>都市開発事業</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>株主</td>
+            <td>
+                <ul>
+                    <li>取締役</li>
+                    <li>他個人投資家</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>管理路線数</td>
+            <td>20路線(支線を含む)</td>
+        </tr>
+        <tr>
+            <td>駅数</td>
+            <td>110駅、5仮乗降場</td>
+        </tr>
+        <tr>
+            <td>本社所在地</td>
+            <td>南北本線 西大路駅前</td>
+        </tr>
+        <tr>
+            <td>グループ会社</td>
+            <td>
+                <ul>
+                    <li>でき鯖高速鉄道建設部</li>
+                    <li>リアライ共和国交通局</li>
+                    <li>うみねこ鉄道</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
