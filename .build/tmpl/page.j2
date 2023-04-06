@@ -1,4 +1,7 @@
 {% extends "base.j2" %}
 {% block body %}
-{{doc}}
+<div class="container-sm m-3">
+    {{doc}}
+</div>
 {% endblock %}
+{% block main_attr %}d-flex flex-column justify-content-center align-items-center{% endblock %}
