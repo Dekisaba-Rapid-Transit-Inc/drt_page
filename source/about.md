@@ -6,7 +6,7 @@ description: "でき鯖高速鉄道グループとはMinecraftサーバー「で
 
 ## 会社概要
 
-でき鯖高速鉄道グループとはMinecraftサーバー「できたてサーバー(猫)」で活動する鉄道事業者です。
+でき鯖高速鉄道グループとはMinecraftサーバー「[できたてサーバー(猫)](https://www.dekitateserver.com)」で活動する鉄道事業者です。
 
 <table class="table">
     <thead class="text-center">
