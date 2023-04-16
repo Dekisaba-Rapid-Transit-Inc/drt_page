@@ -8,4 +8,4 @@ description: "お問い合わせはこちらへお願いします。"
 
 できたてサーバー(猫)のDiscordサーバーなどへの参加が必要となる場合があります。
 
-CEO Discord: [orinrin/JR東海#5032](discordapp.com/users/817257680078897182)
+CEO Discord: [orinrin/JR東海#5032](https://discordapp.com/users/817257680078897182)
