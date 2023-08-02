@@ -12,4 +12,4 @@ description: "でき鉄の路線図"
 | ファイルサイズ | 44.8MB |
 | 最終更新日 | 2023-07-28 |
 
-<button onclick="this.outerHTML=`<a href='/assets/image/map/dekitetsu.png'><img src='/assets/image/map/dekitetsu.png' style='width:70vw'></a>`">ファイルを表示</button>
+<button onclick="this.outerHTML=`<a href='https://cdn.discordapp.com/attachments/1068526940924940328/1134139584024940584/dekitetsu.png'><img src='https://cdn.discordapp.com/attachments/1068526940924940328/1134139584024940584/dekitetsu.png' style='width:70vw'></a>`">ファイルを表示</button>
