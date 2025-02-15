@@ -8,11 +8,11 @@ description: "でき鉄の路線図"
 ファイルサイズが大きいので従量課金制インターネット接続を利用している際はご注意ください。
 
 <table>
-    <tr><td>ファイルサイズ</td><td>44.8MB</td></tr>
-    <tr><td>最終更新日</td><td>2023-07-28</td></tr>
+    <tr><td>ファイルサイズ</td><td>41.0MB</td></tr>
+    <tr><td>最終更新日</td><td>2025-02-15</td></tr>
 </table>
 
-<button id="map_show_button">ファイルを表示</button>
+<button id="map_show_button" class="btn btn-primary">ファイルを表示</button>
 
-<script>document.getElementById("map_show_button").onclick=()=>{document.getElementById("map_show_button").outerHTML='<a href="https://cdn.discordapp.com/attachments/1068526940924940328/1134139584024940584/dekitetsu.png"><img src="https://cdn.discordapp.com/attachments/1068526940924940328/1134139584024940584/dekitetsu.png" style="width:70vw"></a>'}</script>
+<script>document.getElementById("map_show_button").onclick=()=>{document.getElementById("map_show_button").outerHTML='<a href="https://i.gyazo.com/db93f5cf3a6db53d522b63029e922fe5.png"><img src="https://i.gyazo.com/db93f5cf3a6db53d522b63029e922fe5.png" style="width:70vw"></a>'}</script>
 
